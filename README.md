@@ -1,5 +1,5 @@
 # Hi there, I'm Sreedhar! 👋
-### 🏗️ Solutions Architect | 🚀 Engineering Leader | 🤖 AI Enthusiast
+### 🚀 Engineering Leader | 🤖 AI Enthusiast
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Solutions+Architect+%26+Engineering+Leader;Python+%26+AI+Specialist;Cloud+Architecture+Expert;Building+Scalable+Systems;Leading+High-Performance+Teams" alt="Typing SVG" />
